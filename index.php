@@ -16,7 +16,7 @@ require_once("inc/functions.php");
 
 
 $shop = 'jayka-new';
-$token = "a9e07d1effc31e923977851750e790f0";
+$token = "slackchek";
 $shopUrl='jayka-new.myshopify.com';
 
 
