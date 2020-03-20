@@ -4,8 +4,8 @@
 require_once("inc/functions.php");
 
 // Set variables for our request
-$api_key = "a21c30f2de950508bf4d80c2ecbbcc8f";
-$shared_secret = "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";
+$api_key = "slackCheck";
+$shared_secret = "slack check";
 $params = $_GET; // Retrieve all request parameters
 $hmac = $_GET['hmac']; // Retrieve HMAC request parameter
 
